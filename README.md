@@ -1,17 +1,17 @@
 vim-empty-lines
 ===============
 
-This plugin produce you to manipulate empty lines without moving your cursor.
+This plugin can produce you to manipulate empty lines without moving your cursor.
 
-[x] Add empty line below
-[x] Add empty line above
-[x] Remove empty line below
-[x] Remove empty line above
+- [x] Add empty line below.
+- [x] Add empty line above.
+- [x] Remove empty line below.
+- [x] Remove empty line above.
 
 Installation
 ============
 
-Add to your vimrc something like
+Add to your vimrc something like:
 
 ```viml
 Plug 'kovetskiy/vim-empty-lines'
